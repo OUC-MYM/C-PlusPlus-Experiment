@@ -18,7 +18,7 @@ class Application(Frame):
         n = int(name)
         sum = 1
         while n>0:
-            sum=sum*n
+            sum=sum+n
             n=n-1
         messagebox.showinfo('Message', '%d!= %d' %(int(name),sum))
 
