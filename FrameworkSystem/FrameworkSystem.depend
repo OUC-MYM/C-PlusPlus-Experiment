@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1435250897 source:c:\frameworksystem\main.cpp
+	<iostream>
+	<fstream>
+	<cassert>
+	<iomanip>
+	<cmath>
+	<cstring>
+	<stdexcept>
+	"Array.h"
+	"Shape.h"
+
+1434634552 c:\frameworksystem\array.h
+
+1434634339 source:c:\frameworksystem\array.cpp
+	<iostream>
+	<cassert>
+	<iomanip>
+	<cmath>
+	"Array.h"
+
+1435248832 c:\frameworksystem\shape.h
+	<iostream>
+

@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1434034025 source:c:\users\ouc-14-mym\desktop\functiontemplate\main.cpp
+	<iostream>
+	"Point.h"
+	"Date.h"
+	"Employee.h"
+
+1434031745 c:\users\ouc-14-mym\desktop\functiontemplate\point.h
+	<iostream>
+	<cmath>
+
+1434032321 c:\users\ouc-14-mym\desktop\functiontemplate\date.h
+
+1434032515 c:\users\ouc-14-mym\desktop\functiontemplate\employee.h
+

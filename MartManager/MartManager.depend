@@ -1,0 +1,44 @@
+# depslib dependency file v1.0
+1435648073 source:c:\martmanager\main.cpp
+	<iostream>
+	<fstream>
+
+1435664116 source:c:\users\ouc-14-mym\desktop\martmanager\main.cpp
+	<iostream>
+	<fstream>
+	"Commodity.h"
+	"Cart.h"
+
+1435663902 c:\users\ouc-14-mym\desktop\martmanager\commodity.h
+	<iostream>
+	<fstream>
+
+1435663917 source:c:\users\ouc-14-mym\desktop\martmanager\commodity.cpp
+	"Commodity.h"
+
+1435664336 c:\users\ouc-14-mym\desktop\martmanager\cart.h
+	<iostream>
+	"Commodity.h"
+
+1435664347 source:c:\users\ouc-14-mym\desktop\martmanager\cart.cpp
+
+1435663917 source:e:\study\c++\实验课\martmanager\commodity.cpp
+	"Commodity.h"
+
+1435840268 e:\study\c++\实验课\martmanager\commodity.h
+	<iostream>
+	<fstream>
+
+1435840242 source:e:\study\c++\实验课\martmanager\main.cpp
+	<iostream>
+	"Commodity.h"
+	"Cart.h"
+
+1435841133 e:\study\c++\实验课\martmanager\cart.h
+	<iostream>
+	<fstream>
+
+1435841094 source:e:\study\c++\实验课\martmanager\cart.cpp
+	"Cart.h"
+	<fstream>
+
